@@ -4,16 +4,17 @@
 
 # 💻 Tech Stack:
 <div style="display: flex; gap: 2px; align-items: center;">
+  <img src="https://iconic-api.onrender.com/light/java" width="50px" title="Java (Light)" />
+  <img src="https://iconic-api.onrender.com/light/c#" width="50px" title="C# (Light)" />
   <img src="https://iconic-api.onrender.com/light/python" width="50px" title="Python (Light)" />
   <img src="https://iconic-api.onrender.com/light/html" width="50px" title="HTML (Light)" />
-  <img src="https://iconic-api.onrender.com/light/dart" width="50px" title="Dart (Light)" />
+  
   <img src="https://iconic-api.onrender.com/light/css" width="50px" title="CSS (Light)" />
   <img src="https://iconic-api.onrender.com/light/git" width="50px" title="Git (Light)" />
   <img src="https://iconic-api.onrender.com/light/github" width="50px" title="GitHub (Light)" />
   <img src="https://iconic-api.onrender.com/light/linux" width="50px" title="Linux (Light)" />
   <img src="https://iconic-api.onrender.com/light/vscode" width="50px" title="VS Code (Light)" />
   <img src="https://iconic-api.onrender.com/light/docker" width="50px" title="Docker (Light)" />
-  <img src="https://iconic-api.onrender.com/light/bash" width="50px" title="Bash (Light)" />
   <img src="https://iconic-api.onrender.com/light/figma" width="50px" title="Figma (Light)" />
   <img src="https://iconic-api.onrender.com/light/nodejs" width="50px" title="Node.js (Light)" />
 </div>
