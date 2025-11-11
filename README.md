@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Nguyen Khanh Thi!
 
 ---
 
@@ -17,15 +17,15 @@ With expertise in both **front-end** and **back-end** technologies, I seek a cha
   <img src="https://iconic-api.onrender.com/light/csharp" width="64px" />
   <img src="https://iconic-api.onrender.com/light/python" width="50px" title="Python (Light)" />
   <img src="https://iconic-api.onrender.com/light/nodejs" width="50px" title="Node.js (Light)" />
-  <img src="https://iconic-api.onrender.com/light/react" width="64px" />
-  <img src="https://iconic-api.onrender.com/light/typescript" width="64px" />
-  <img src="https://iconic-api.onrender.com/light/mongodb" width="64px" />
-  <img src="https://iconic-api.onrender.com/light/linux" width="64px" />
+  <img src="https://iconic-api.onrender.com/light/react" width="50px" />
+  <img src="https://iconic-api.onrender.com/light/typescript" width="50px" />
+  <img src="https://iconic-api.onrender.com/light/mongodb" width="50px" />
+  <img src="https://iconic-api.onrender.com/light/linux" width="50px" />
   <img src="https://iconic-api.onrender.com/light/docker" width="50px" title="Docker (Light)" />
   <img src="https://iconic-api.onrender.com/light/figma" width="50px" title="Figma (Light)" />
 </div>
-## 🏢 Internship Experience
 
+## 🏢 Internship Experience
 ### Software Engineer Intern | TMA Solutions
 📅 Duration: 3 months  
 
