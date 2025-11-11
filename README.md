@@ -52,7 +52,7 @@ I have expertise in both **front-end** and **back-end** technologies, and I seek
 ## 🏢 Work Experience
 
 ### Software Engineer Intern | TMA Solutions
-📅 Jun 2023 - Aug 2023 (3 months)
+📅 Jun 2025 - Aug 2025 (3 months)
 
 ## 🚀 Goals
 - Build high-performance, scalable applications  
